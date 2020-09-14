@@ -1,0 +1,1 @@
+To run this API: npx nodemon index.js
